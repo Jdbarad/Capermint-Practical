@@ -1,6 +1,6 @@
 # Jaypalsinh Barad
 
-## Dependency 
+## Dependency
 ### Ktor
 A type-safe HTTP client for Android and the JVM
 ```yml
@@ -92,27 +92,27 @@ implementation(libs.coin.network)
 ## Screenshots
 <table>
     <tr>
-        <td width="33%">
+        <td width="50%">
             <h3 align="center">Splash Screen</h3>
             <hr>          
-            <img src="https://github.com/user-attachments/assets/adff21ce-27eb-4486-a29c-9e9577a4badc" alt="Splash screen">           
+            <img src="/screenshot/splashscreen.png" alt="Splash screen">           
         </td>
-       <td width="33%">
+       <td width="50%">
             <h3 align="center">Login Screen</h3>
             <hr>          
-            <img src="https://github.com/user-attachments/assets/9a2cf3a8-1215-4e0d-8214-92311671b6db" alt="Progress screen">           
+            <img src="/screenshot/loginscreen.png" alt="Progress screen">           
        </td>
     </tr>
   <tr>
-        <td width="33%">
+        <td width="50%">
             <h3 align="center">Part 1 Screen</h3>
             <hr>          
-            <img src="https://github.com/user-attachments/assets/6f670dac-ab4d-4329-88ba-7fa7bd23e54a" alt="Splash screen">           
+            <img src="/screenshot/part1screen.png" alt="Splash screen">           
         </td>
-       <td width="33%">
+       <td width="50%">
             <h3 align="center">Part 2 Screen</h3>
             <hr>          
-            <img src="https://github.com/user-attachments/assets/c02ca06d-0f16-4e1e-a974-e75cd3af19ad" alt="Progress screen">           
+            <img src="/screenshot/part2screen.png" alt="Progress screen">           
         </td>
     </tr>
 </table> 
@@ -120,7 +120,7 @@ implementation(libs.coin.network)
 ## App Link
 - <a href="https://drive.google.com/file/d/1hsIFwXg-_pRYgYZ_y-WpJBKJEohO6C2K/view?usp=sharing">Download</a>
 
-## Other Projects 
+## Other Projects
 - <a href="https://github.com/Jdbarad/deonde-api">deonde-api</a>
 - <a href="https://github.com/Jdbarad/Play-with-Dots">Play with Dots</a>
 - <a href="https://github.com/Jdbarad/Api-App-with-Search">Elsnerdev-Api with Search</a>
